@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ConstraintLayoutサンプル</string>
+    <string name="tv_title">必要な情報を入力してください</string>
+    <string name="tv_name">名前</string>
+    <string name="tv_mail">メールアドレス</string>
+    <string name="mail_title">題名</string>
+    <string name="tv_comment">質問内容</string>
+    <string name="bt_confirm">確認</string>
+    <string name="bt_send">送信</string>
+    <string name="bt_clear">クリア</string>
+    <string name="dialog_title">入力確認</string>
+    <string name="dialog_mes">入力した内容は以下の通りです</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_ng">キャンセル</string>
+    <string name="dialog_po">内容を確認しました</string>
+    <string name="dialog_ne">キャンセルしました</string>
+    <string name="dialog_neutral">問い合わせ</string>
+
+</resources>
